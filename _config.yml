@@ -16,8 +16,8 @@
 title: Your Favorite Page On The Internets
 email: reelandry@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+  This is an awesome description for my new site. Edit this
+  line in _config.yml (meaning me). It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: reelandry
 github_username: reelandry
@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Richard Spencer Landry, Jr., Ph.D."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My awesome biography constrained to a sentence or two goes here. It will be updated when I feel like it."
   links:
-    - label: "Website"
+    - label: "Wordpress Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://reelandry.wordpress.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
