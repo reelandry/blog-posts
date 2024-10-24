@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is an awesome description for my new site. # Edit this line in _config.yml (meaning me). It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 twitter_username: reelandry
 github_username: reelandry
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
