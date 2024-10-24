@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Richard Spencer Landry, Jr., Ph.D."
   avatar : "/assets/images/linkedin-profile-ree.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here. It will be updated when I feel like it."
+  bio    : "A seasoned computational physicist with over 25 years of expertise in mathematical modeling, simulation, stochastic processes, and machine learning through data science. Consciously committed to advancing knowledge and applying innovative solutions across diverse scientific fields."
   links:
     - label: "Wordpress Website"
       icon: "fas fa-fw fa-link"
