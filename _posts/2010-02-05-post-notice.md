@@ -35,7 +35,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% raw %}{% capture notice-2 %}
 #### New Site Features
 
-* You can now have cover images on blog pages
+* You can now have cover images on blog pages $$\sum x_i w_ij$$
 * Drafts will now auto-save while writing
 {% endcapture %}{% endraw %}
 
